@@ -66,7 +66,7 @@ header#top-section {
 		overflow:hidden;
 		padding-top:0px;
 		background:#111;
-		min-height:730px;
+		min-height:990px;
 		width:100%;
 		min-width:100%;
 		z-index:0;
@@ -608,12 +608,12 @@ input,button,select,textarea {
 
 /* ==== Intro ==== */
 #slide_1 {
-	height:730px;
+/*	height:730px;*/
 	position:relative;
 	overflow:hidden;
 	padding-top:0px;
 	background:#111;
-	height:730px;
+	height:1000px;
 	width:100%;
 	min-width:100%;
 	z-index:0;
@@ -736,7 +736,7 @@ input,button,select,textarea {
 }
 .carousel-content {
 	position:absolute;
-	top:25%;
+	top:35%;
 	left:10%;
 	right:10%;
 	margin:0px;
@@ -745,7 +745,7 @@ input,button,select,textarea {
 }
 .carousel {
 	margin-bottom:0;
-	height:730px;
+	height:1000px;
 }
 .header-extended .carousel {
 	padding:90px 0px;

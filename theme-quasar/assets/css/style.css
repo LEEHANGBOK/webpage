@@ -543,7 +543,7 @@ ul {
 	border:0;
 }
 .btn {
-	border-radius:0px;
+	border-radius:5px;
 }
 .btn-default:hover {
 	background:#c70f06;

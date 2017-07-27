@@ -942,18 +942,18 @@ input,button,select,textarea {
 	z-index:0;
 }
 .buttonyellow {
-	background:#daa520;
+	background:#428bca;
 	line-height:40px;
 	padding:8px 20px;
-	border-radius:0;
+	border-radius:30px;
 	display:inline-block;
 	color:#fff;
 	text-transform:none;
 	font-weight:300;
-	min-width:190px;
-	font-size:20px;
+	min-width:260px;
+	font-size:17px;
 	text-shadow:none;
-	letter-spacing:1px;
+	letter-spacing:8px;
 }
 .buttoncolor {
 	line-height:40px;

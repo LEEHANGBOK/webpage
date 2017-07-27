@@ -86,3 +86,11 @@
 #body-content-up {
     margin-top: 4.5em;
 }
+
+body nav div ul li a:hover {
+/*    background-color: rgb(255, 208, 20);*/
+    background-color: fuchsia;
+    
+}
+
+
